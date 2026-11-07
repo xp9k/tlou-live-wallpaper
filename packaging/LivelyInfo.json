@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.6.1",
+  "Title": "TLOU - Live Wallpaper",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Desc": "Живые обои: тихая заброшенная комната, солнечный свет из старого окна, шторы и плющ на ветру, пыль в лучах света. Фанатская работа по мотивам The Last of Us.",
+  "Author": "xp9k",
+  "License": null,
+  "Contact": "https://github.com/xp9k/tlou-live-wallpaper",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}

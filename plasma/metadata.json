@@ -1,0 +1,15 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "org.tlou.stillalive",
+    "Name": "TLOU - Live Wallpaper",
+    "Description": "Living wallpaper: sunlight through an old window, curtains and ivy in the wind, drifting dust. Native Qt Quick rendering.",
+    "Description[ru]": "Живые обои: солнечный свет из старого окна, шторы и плющ на ветру, пыль в воздухе. Нативная отрисовка Qt Quick.",
+    "Version": "1.0.0",
+    "Authors": [{"Name": "xp9k", "Website": "https://github.com/xp9k"}],
+    "Website": "https://github.com/xp9k/tlou-live-wallpaper",
+    "BugReportUrl": "https://github.com/xp9k/tlou-live-wallpaper/issues",
+    "Icon": "preferences-desktop-wallpaper"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
